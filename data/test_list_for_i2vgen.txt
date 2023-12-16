@@ -10,3 +10,6 @@ data/test_images/img_0001.jpg|||A green frog floats on the surface of the water 
 # data/test_images/img_0009.png|||Papers were floating in the air on a table in the library
 # data/test_images/img_0012.jpg|||A close-up of a parrot
 # data/test_images/img_0013.png|||Five goldfish in the style of Chinese painting are swimming
+# data/test_images/yor.jpg|||A girl with black hair and red shirt is smiling
+# data/test_images/hori.jpg|||A standing girl wearing school uniform
+# data/test_images/girl.jpg|||A blonde girl with wearing school uniform
